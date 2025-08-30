@@ -1,0 +1,7 @@
+Make me an app
+ for outdoor adventurers
+ that helps 
+
+What it does
+
+find local classes and workshops with real-time availability
