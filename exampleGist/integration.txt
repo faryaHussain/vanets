@@ -1,0 +1,7 @@
+What will be the value of x after the following code executes?
+
+x = 5;  
+if (x > 3)      
+    { x = x + 2; } 
+else
+    {  x = x - 2; }
